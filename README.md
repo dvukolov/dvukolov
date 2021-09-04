@@ -25,7 +25,7 @@ Some of my projects include:
 - Serves as the basis for experimental studies of turbulence by five scientific institutions.
 
 #### Open Source Projects (Python, R, C/C++)
-- Contributed with bug fixes and documentation updates to open source projects such as Apache Arrow, scikit-learn, ThunderSVM (GPU accelerated SVM), Picasso (sparse regression algorithm), Gap Statistic (clustering metric).
+- Contributed with bug fixes and documentation updates to open source projects such as Apache Arrow, scikit-learn, [ThunderSVM](https://github.com/Xtra-Computing/thundersvm) (GPU accelerated SVM), [Picasso](https://github.com/jasonge27/picasso) (sparse regression algorithm), [Gap Statistic](https://github.com/milesgranger/gap_statistic) (clustering metric).
 
 <!--
 **dvukolov/dvukolov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
