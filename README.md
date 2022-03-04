@@ -21,7 +21,7 @@ Some of my projects include:
 
 #### [Meteorological Observatory](https://github.com/alexavr/tower_parse) (Python, TCP sockets, regex, pytest)
 - Implemented in Python streaming data collection from weather instruments.
-- The code has a suite of unit tests and is deployed at the meteorological station of the Moscow State University.
+- The code has a suite of unit tests and is deployed at a university meteorological station.
 - Serves as the basis for experimental studies of turbulence by five scientific institutions.
 
 #### Open Source Projects (Python, R, C/C++)
